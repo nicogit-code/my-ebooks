@@ -1,0 +1,618 @@
+{
+  "books": [
+    {
+      "id": 100,
+      "title": "Ciuma",
+      "author": "Albert Camus",
+      "isbn": "978-973-103-462-1",
+      "categoryId": 8,
+      "genre": "Fictiune",
+      "rating": "4,5/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49781650947_aa0f6ede3b_n.jpg",
+      "publicationDate": "1947",
+      "originalTitle": "La Peste",
+      "originalLanguage": "Franceză",
+      "description": "În ora?ul Oran, mii de ?obolani, ini?ial neobserva?i de popula?ie, încep să moară în stradă. Curând începe o isterie care determină ziarele locale să prezinte acest incident straniu. Autorită?ile răspund presiunii publice prin strângerea ?i incinerarea ?obolanilor, fără să ?tie că opera?iunea de colectare era catalizatorul pentru răspândirea ciumei bubonice.",
+      "readMore": "https://ro.wikipedia.org/wiki/Ciuma_(roman)",
+      "download": "https://1drv.ms/w/s!AgbJEwFyAz9FjsxJI-NqSm34dz15-w"
+    },
+    {
+      "id": 200,
+      "title": "Codul lui Da Vinci",
+      "author": "Dan Brown",
+      "isbn": "978-973-103-462-1",
+      "categoryId": 7,
+      "genre": "Politist / Istoric",
+      "rating": "4,5/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49776521267_564fe249f5_n.jpg",
+      "publicationDate": "2003",
+      "originalTitle": "The Da Vinci Code",
+      "originalLanguage": "Engleză",
+      "description": "Cartea se deschide cu uciderea misterioasă a unui custode de la Luvru, chiar în interiorul muzeului. Jacques Saunieree fusese ultimul mare maestru al unei confră?ii secrete - Stare?ia Sionului - care păstrează un secret ce ar duce la distrugerea bisericii cre?tine.",
+      "readMore": "https://ro.wikipedia.org/wiki/Codul_lui_Da_Vinci_(roman)",
+      "download": "https://1drv.ms/b/s!AgbJEwFyAz9FjsxHYhTzZg1EkG9ipw"
+    },
+    {
+      "id": 300,
+      "title": "Un veac de singurătate",
+      "author": "Gabriel Garcia Marquez",
+      "isbn": "978-973-103-462-1",
+      "categoryId": 8,
+      "genre": "Ficțiune",
+      "rating": "4,6/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49775659558_8e3648c1af_n.jpg",
+      "publicationDate": "1967",
+      "originalTitle": "Cien años de soledad",
+      "originalLanguage": "Spaniolă",
+      "description": "Mulţi ani după aceea, în faţa plutonului de execuţie, colonelul Aureliano Buendia avea să-şi amintească de după-amiaza îndepărtată cînd tatăl său îl dusese să facă cunoştinţa cu gheaţa.",
+      "readMore": "https://ro.wikipedia.org/wiki/Un_veac_de_singur%C4%83tate",
+      "download": ""
+    },
+    {
+      "id": 400,
+      "title": "Plânsul lui Nietzsche",
+      "author": "Irwin D. Yalom",
+      "isbn": "973-28-0596-X",
+      "categoryId": 4,
+      "genre": "Nuvelă",
+      "rating": "4,2/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49776521187_bdf8d0fd4b_n.jpg",
+      "publicationDate": "1992",
+      "originalTitle": "When Nietzsche wept",
+      "originalLanguage": "Engleză",
+      "description": "Ireveria lui Josef Breuer fu întreruptă de dangătul armonios al clopotelor de la San Salvatore. îşi scoase cea¬sul masiv de aur din buzunarul vestei. Ora nouă.",
+      "readMore": "https://en.wikipedia.org/wiki/When_Nietzsche_Wept_(novel)",
+      "download": ""
+    },
+    {
+      "id": 500,
+      "title": "Peștera",
+      "author": "José Saramago",
+      "isbn": "978-973-461-318-2",
+      "categoryId": 4,
+      "genre": "Nuvelă",
+      "rating": "4,2/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49776190271_2825415d89_n.jpg",
+      "publicationDate": "2009",
+      "originalTitle": "A Caverna",
+      "originalLanguage": "Portugheză",
+      "description": "O familie de mestesugari, olari din tata-n fiu, traieste si iubeste in umbra Centrului, o constructie menita sa le asigure oamenilor fascinati de ea absolut totul, de la produse de consum pina la „senzatii naturale”: muscatura gerului, mingiierea soarelui,...",
+      "readMore": "https://en.wikipedia.org/wiki/The_Cave_(novel)",
+      "download": ""
+    },
+    {
+      "id": 600,
+      "title": "Umbră",
+      "author": "John Saul",
+      "isbn": "973-576-713-9",
+      "categoryId": 1,
+      "genre": "Horror",
+      "rating": "3,9/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49776190311_1419caf952_n.jpg",
+      "publicationDate": "1992",
+      "originalTitle": "Shadows",
+      "originalLanguage": "Engleză",
+      "description": "In cea mai fascinanta creatie a sa, John Saul propune cititorilor o dilema: oare inzestrarea intelectuala iesita din comun constituie un avantaj sau un handicap? Numai un thriller psihologic, scris cu un nerv deosebit, putea trata o asemenea problema in toata complexitatea ei.",
+      "readMore": "https://ro.wikipedia.org/wiki/John_Saul",
+      "download": ""
+    },
+    {
+      "id": 700,
+      "title": "O mână de oase",
+      "author": "Stephen King",
+      "isbn": "978-068-485-350-5",
+      "categoryId": 1,
+      "genre": "Horror",
+      "rating": "4,5/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49776521097_197815b820_n.jpg",
+      "publicationDate": "1998",
+      "originalTitle": "Bag of Bones",
+      "originalLanguage": "Engleză",
+      "description": "Scris la persoana întâi, romanul debutează cu moartea soției scriitorului-narator, Mike Noonan, moarte datorată unui atac cerebral. După moartea soției, cel care fusese până atunci unul dintre scriitorii foarte bine vânduți ai momentului intră într-o perioadă de blocaj,...",
+      "readMore": "https://ro.wikipedia.org/wiki/O_m%C3%A2n%C4%83_de_oase",
+      "download": ""
+    },
+    {
+      "id": 800,
+      "title": "Leagănul pisicii",
+      "author": "Kurt Vonnegut",
+      "isbn": "973-681-556-0",
+      "categoryId": 8,
+      "genre": "Ficțiune",
+      "rating": "4,4/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49776190256_147392dee2_n.jpg",
+      "publicationDate": "1963",
+      "originalTitle": "Cat's Cradle",
+      "originalLanguage": "Engleză",
+      "description": "Leaganul pisicii, unul dintre cele mai cunoscute romane ale lui Kurt Vonnegut, scris in aceeasi forma satirica ce l-a consacrat, este un comentariu asupra omului modern si a nebuniei lui. John, un tanar scriitor fascinat de Felix Hoenikker, asa-zisul creator al bombei atomice...",
+      "readMore": "https://ro.wikipedia.org/wiki/Leag%C4%83nul_pisicii",
+      "download": ""
+    },
+    {
+      "id": 900,
+      "title": "Sapiens - A brief history of humankind",
+      "author": "Yuval Noah Harari",
+      "isbn": "978-973-46-4888-7",
+      "categoryId": 9,
+      "genre": "Non-Fiction",
+      "rating": "4,8/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49801607026_0c469179a2_n.jpg",
+      "publicationDate": "2011",
+      "originalTitle": "קיצור תולדות האנושות",
+      "originalLanguage": "Ebraică",
+      "description": "Acum 100.000 de ani, pe pămînt existau cel puţin şase specii de oameni. Astăzi există una singură: noi, Homo sapiens. Ce s-a întîmplat cu celelalte? Şi cum am ajuns să fim stăpînii planetei? De la începuturile speciei noastre şi rolul pe care l-a jucat în ecosistemul global...",
+      "readMore": "https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind",
+      "download": ""
+    },
+    {
+      "id": 1000,
+      "title": "JS - Types and Grammar",
+      "author": "Kyle Sympson",
+      "isbn": "978-1-491-90419-0",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,9/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49867778696_4b8d43c11d_n.jpg",
+      "publicationDate": "2015",
+      "originalTitle": "You don`t know JavaScript | JS - Types and Grammar",
+      "originalLanguage": "Engleză",
+      "description": "While flickering mouse trails and annoying popup prompts may be where JavaScript started, nearly two decades later, the technology and capability of JavaScript has grown many orders of magnitude, and few doubt its importance at the heart of the world’s most widely available software platform: the Web.",
+      "readMore": "http://oreilly.com/catalog/errata.csp?isbn=9781491904190",
+      "download": ""
+    },
+    {
+      "id": 1100,
+      "title": "JS - Up & Going",
+      "author": "Kyle Sympson",
+      "isbn": "978-1-491-92446-4",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,9/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49867243448_941852e8eb_n.jpg",
+      "publicationDate": "2015",
+      "originalTitle": "You don`t know JavaScript | JS - Types and Grammar",
+      "originalLanguage": "Engleză",
+      "description": "When you strive to comprehend your code, you create better work and become better at what you do. The code isn’t just your job anymore, it’s your craft.",
+      "readMore": "http://oreilly.com/catalog/errata.csp?isbn=9781491924464",
+      "download": ""
+    },
+    {
+      "id": 1200,
+      "title": "The HTML Handbook",
+      "author": "Flavio Copes",
+      "isbn": "-",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,7/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49867779161_bc58a0d1fa_n.jpg",
+      "publicationDate": "2018",
+      "originalTitle": "The HTML Handbook",
+      "originalLanguage": "Engleză",
+      "description": "Yet lots of things are obscure to many people. Me included. I wrote this handbook to help my understanding of the topic, because when I need to explain something, I better make sure I first know the thing inside out.",
+      "readMore": "https://flaviocopes.com",
+      "download": ""
+    },
+    {
+      "id": 1300,
+      "title": "The CSS Handbook",
+      "author": "Flavio Copes",
+      "isbn": "-",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,7/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49868086602_d57e6af508_n.jpg",
+      "publicationDate": "2018",
+      "originalTitle": "The CSS Handbook",
+      "originalLanguage": "Engleză",
+      "description": "Even if you don't write CSS for a living, knowing how CSS works can help save you some headaches when you need to understand it from time to time, for example while tweaking a web page.",
+      "readMore": "https://flaviocopes.com",
+      "download": ""
+    },
+    {
+      "id": 1400,
+      "title": "The JavaScript Handbook",
+      "author": "Flavio Copes",
+      "isbn": "-",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,8/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49867873801_5528825252_n.jpg",
+      "publicationDate": "2018",
+      "originalTitle": "The JavaScript Handbook",
+      "originalLanguage": "Engleză",
+      "description": "JavaScript is now also the language powering databases and many more applications, and it's even possible to develop embedded applications, mobile apps, TV sets apps and much more. What started as a tiny language inside the browser is now the most popular language in the world.",
+      "readMore": "https://flaviocopes.com",
+      "download": ""
+    },
+    {
+      "id": 1500,
+      "title": "The React Handbook",
+      "author": "Flavio Copes",
+      "isbn": "-",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,8/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49868087862_590ef62432_n.jpg",
+      "publicationDate": "2018",
+      "originalTitle": "The React Handbook",
+      "originalLanguage": "Engleză",
+      "description": "Developed at Facebook and released to the world in 2013, it drives some of the most widely used apps, powering Facebook and Instagram among countless other applications. Its primary goal is to make it easy to reason about an interface and its state at any point in time, by dividing the UI into a collection of components.",
+      "readMore": "https://flaviocopes.com",
+      "download": ""
+    },
+    {
+      "id": 1600,
+      "title": "Eloquent JavaScript - 3rd edition",
+      "author": "Marijn Haverbeke",
+      "isbn": "978-1-593-27951-6",
+      "categoryId": 10,
+      "genre": "Programare/IT",
+      "rating": "4,8/5",
+      "review": "Lorem ipsum dolor...",
+      "cover": "https://live.staticflickr.com/65535/49870441131_40e53a1916_n.jpg",
+      "publicationDate": "2018",
+      "originalTitle": "Eloquent JavaScript - 3rd edition",
+      "originalLanguage": "Engleză",
+      "description": "This is a book about instructing computers. Computers are about as common as screwdrivers today, but they are quite a bit more complex, and making them do what you want them to do isn’t always easy.",
+      "readMore": "https://flaviocopes.com",
+      "download": ""
+    }
+  ],
+  "reviews": [
+    {
+      "user": "Stefan Bogdan",
+      "date": "22-01-2020",
+      "popularityId": 100,
+      "body": "Am citit cartea astă vară, la mare, întins pe rogojină, cu sentimentul de compasiune pentru ce se întâmplă altora; se întâmplă ca astăzi să devenim personaje...E mai actuală decât oricând, mai ales că e o carte despre implicare, nu despre pasivitate; și despre răsplată, despre viață.",
+      "id": 1
+    },
+    {
+      "user": "Gautam Mridha",
+      "popularityId": 100,
+      "date": "14-04-2020",
+      "body": "Outstanding... never loses its relevance... Corona once again reminds us The Plague is not a novel at all its a reality so don't think human is the ultimate boss on the earth.",
+      "id": 2
+    },
+    {
+      "user": "Patricia Hussey",
+      "date": "02-05-2020",
+      "popularityId": 100,
+      "body": "The novel is so relevant in our viral world. It s a novel that carries your thinking to another level. I read it first in the original language and was elevated by it. it loses some of its philosophical import, however, in translation.",
+      "id": 3
+    },
+    {
+      "user": "Miruna M.",
+      "date": "22-09-2019",
+      "popularityId": 200,
+      "body": "Cred ca fiecare om are dreptul sa creada ce si cum vrea, insa nu pot sa nu admir modul minunat in care Dan Brown a imbinat elemente reale si fantastice si a obtinut un roman atat de veridic incat a generat atatea controverse.",
+      "id": 4
+    },
+    {
+      "user": "Karan Chheda",
+      "date": "04-02-2020",
+      "popularityId": 200,
+      "body": "I haven't seen the movie but the book is outstanding. The amount of research Mr. Brown must have done is above our imagination. The way he introduces us to different secret societies is just fascinating adventure.",
+      "id": 5
+    },
+    {
+      "user": "Aya Alzaga",
+      "date": "15-01-2020",
+      "popularityId": 200,
+      "body": "A well crafted and thought-provoking movie. I enjoyed the holy grail quest of Robert Langdon. Dan Brown is such a brilliant novelist, writer and researcher. No wonder this movie was banned because of too much controversy when at the end of the day, people will always believe what they want to believe.",
+      "id": 6
+    },
+    {
+      "user": "Răzvan Zamfirescu",
+      "date": "28-08-20219",
+      "popularityId": 300,
+      "body": "Un veac de singurătate este pentru literatură ce este Nothing else matters pentru muzică: toate lumea a citit-o/ascultat-o, majoritatea cititorilor/ascultătorilor o declară extraordinară, dar puțini sunt interesați de restul operelor scriitorului/muzicienilor pentru că puțini sunt cei care se pot declara fanii genului din care cartea/piesa face parte.",
+      "id": 7
+    },
+    {
+      "body": "Book opened a dream in reality, around a fictitious city, fantastic things happen, and the reader s imagination gets wings to fly high in the sky, finally lands on a mystique land where she realises nothing.",
+      "user": "Vijaya Kumar",
+      "date": "14-05-2019",
+      "popularityId": 300,
+      "id": 8
+    },
+    {
+      "user": "Ian Sugarman",
+      "popularityId": 300,
+      "date": "21-03-2020",
+      "body": "I live in Iran and all these differences in time, space and culture did not prevent me from wearing the boots of a colonel and not walking in the streets of the Turks while reading this book. This book is suitable for all tastes who want to read novels.  When I suggest to remind the characters and their position together, prepare your paper and pen to set the chart.",
+      "id": 9
+    },
+    {
+      "user": "Nico",
+      "popularityId": 900,
+      "date": "02-05-2020",
+      "body": "Fascinating.I recommend reading this with an open mind. It seems many who give this book low reviews are particularly challenged by the authors stance.",
+      "id": 10
+    },
+    {
+      "user": "Alina M.",
+      "popularityId": 900,
+      "date": "12-02-2020",
+      "body": "I am in the process of reading it, and I am totally captivated. It is an easy and pleasant read with many 'aha' moments all along. It definitely puts things into perspective, and  has the power to shake strong rooted beliefs.",
+      "id": 11
+    },
+    {
+      "user": "Nico",
+      "popularityId": 200,
+      "date": "2020-05-06",
+      "body": "O carte minunata, merita citita si recitita!!!",
+      "id": 14
+    },
+    {
+      "user": "Alina M.",
+      "popularityId": 400,
+      "date": "12-02-2020",
+      "body": "I am in the process of reading it, and I am totally captivated. It is an easy and pleasant read with many 'aha' moments all along. It definitely puts things into perspective, and  has the power to shake strong rooted beliefs.",
+      "id": 15
+    },
+    {
+      "user": "Alina M.",
+      "popularityId": 500,
+      "date": "12-02-2020",
+      "body": "I am in the process of reading it, and I am totally captivated. It is an easy and pleasant read with many 'aha' moments all along. It definitely puts things into perspective, and  has the power to shake strong rooted beliefs.",
+      "id": 16
+    },
+    {
+      "user": "Nico",
+      "popularityId": 600,
+      "date": "02-05-2020",
+      "body": "Fascinating.I recommend reading this with an open mind. It seems many who give this book low reviews are particularly challenged by the authors stance.",
+      "id": 17
+    },
+    {
+      "user": "Nico",
+      "popularityId": 700,
+      "date": "02-05-2020",
+      "body": "Fascinating.I recommend reading this with an open mind. It seems many who give this book low reviews are particularly challenged by the authors stance.",
+      "id": 18
+    },
+    {
+      "user": "Ian Sugarman",
+      "popularityId": 800,
+      "date": "21-03-2020",
+      "body": "I live in Iran and all these differences in time, space and culture did not prevent me from wearing the boots of a colonel and not walking in the streets of the Turks while reading this book. This book is suitable for all tastes who want to read novels.  When I suggest to remind the characters and their position together, prepare your paper and pen to set the chart.",
+      "id": 19
+    },
+    {
+      "user": "Mamu",
+      "popularityId": 100,
+      "body": "O carte excelenta. Recomand!",
+      "id": 22
+    },
+    {
+      "user": "Nico",
+      "popularityId": 1000,
+      "date": "2020-05-06",
+      "body": "Foarte bine structurata, excelent explicat!",
+      "id": 23
+    },
+    {
+      "user": "Simon Smith",
+      "popularityId": 1100,
+      "date": "2020-05-07",
+      "body": "Foarte bine structurata, excelent explicat!",
+      "id": 24
+    },
+    {
+      "user": "Andrei C",
+      "popularityId": 1200,
+      "date": "2020-05-07",
+      "body": "Foarte bine structurata, informatii actuale!",
+      "id": 25
+    },
+    {
+      "user": "John Simmons",
+      "popularityId": 1300,
+      "date": "2020-05-02",
+      "body": "Great book!",
+      "id": 26
+    },
+    {
+      "user": "Nico",
+      "popularityId": 1400,
+      "date": "2020-04-06",
+      "body": "Foarte bine structurata, informatii actuale!",
+      "id": 27
+    },
+    {
+      "user": "Mamu",
+      "popularityId": 1500,
+      "date": "2020-02-16",
+      "body": "Foarte bine structurata si documentata.",
+      "id": 28
+    },
+    {
+      "user": "Nithin Krishna",
+      "popularityId": 1600,
+      "date": "2019-09-10",
+      "body": "This is no ordinary javascript book. This book if read right (Do all the exercises) will give you great insight into functional thinking, which will help you with any functional programming language. A must read for every computer scientist.",
+      "id": 29
+    },
+    {
+      "user": "Dan",
+      "popularityId": 1600,
+      "date": "2019-09-10",
+      "body": "I would recommend this book for anyone who works with JavaScript. For a beginner, I would pair it with a book on programming fundamentals and get started coding literally anything.",
+      "id": 30
+    }
+  ],
+  "popularity": [
+    {
+      "id": 100,
+      "Review": ""
+    },
+    {
+      "id": 200,
+      "Review": ""
+    },
+    {
+      "id": 300,
+      "Review": ""
+    },
+    {
+      "id": 400,
+      "Review": ""
+    },
+    {
+      "id": 500,
+      "Review": ""
+    },
+    {
+      "id": 600,
+      "Review": ""
+    },
+    {
+      "id": 700,
+      "Review": ""
+    },
+    {
+      "id": 800,
+      "Review": ""
+    },
+    {
+      "id": 900,
+      "Review": ""
+    },
+    {
+      "id": 1000,
+      "Review": ""
+    },
+    {
+      "id": 1100,
+      "Review": ""
+    },
+    {
+      "id": 1200,
+      "Review": ""
+    },
+    {
+      "id": 1300,
+      "Review": ""
+    },
+    {
+      "id": 1400,
+      "Review": ""
+    },
+    {
+      "id": 1500,
+      "Review": ""
+    },
+    {
+      "id": 1600,
+      "Review": ""
+    }
+  ],
+  "users": [
+    {
+      "username": "Nico",
+      "email": "Nicki_mamu@yahoo.com",
+      "password": "aaa",
+      "retype-password": "aaa",
+      "id": 1
+    },
+    {
+      "username": "Mamu",
+      "email": "mamu_ovi@yahoo.com",
+      "password": "bbb",
+      "retype-password": "bbb",
+      "id": 2
+    }
+  ],
+  "login": [
+    {
+      "username": "Nico",
+      "password": "aaa",
+      "id": 1
+    },
+    {
+      "username": "Nico",
+      "password": "aaa",
+      "id": 2
+    },
+    {
+      "username": "Nico",
+      "password": "aaa",
+      "id": 3
+    }
+  ],
+  "userLibrary": [
+    {
+      "userId": 2,
+      "bookId": 100,
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "bookId": 300,
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "bookId": 600,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "bookId": 100,
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "genre": "Horror"
+    },
+    {
+      "id": 2,
+      "genre": "Mister & Thriller"
+    },
+    {
+      "id": 3,
+      "genre": "Roman"
+    },
+    {
+      "id": 4,
+      "genre": "Nuvelă"
+    },
+    {
+      "id": 6,
+      "genre": "Dicițonare"
+    },
+    {
+      "id": 7,
+      "genre": "Polițist / Istoric"
+    },
+    {
+      "id": 8,
+      "genre": "Ficțiune"
+    },
+    {
+      "id": 9,
+      "genre": "Non-fiction"
+    },
+    {
+      "id": 10,
+      "genre": "Programare"
+    }
+  ]
+}
